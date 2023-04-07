@@ -38,7 +38,7 @@ public class BrowserTest {
 	}
 	
 	@Test
-	public void getData2()
+	public void getData3()
 	{
 		System.out.println("Hello Guys Test");
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
